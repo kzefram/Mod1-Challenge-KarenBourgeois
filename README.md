@@ -7,6 +7,27 @@ This challenge is to demonstrate my knowledge of making a site accessible to scr
 ## Installation
 
 There is no installation required as this is a static website.
+Link for deployment: https://kzefram.github.io/Mod1-Challenge-KarenBourgeois/
+
+Full-screen on a laptop
+
+![Alt text](assets/images/full-screen.png)
+
+Content Full screen
+
+![Alt text](assets/images/content-full-screen.png)
+
+Little Screen
+
+![Alt text](assets/images/Little-Screen.png)
+
+Little Screen Content
+
+![Alt text](assets/images/content-screen-little.png)
+
+Little screen side bar
+
+![Alt text](assets/images/Sidebar-little-screen.png)
 
 ## Usage
 
